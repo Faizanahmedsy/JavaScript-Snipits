@@ -27,3 +27,5 @@ export const moreRoles = [
     salary: 345,
   },
 ];
+
+export const colors = ["red", "green", "blue", "yellow", "orange", "purple"];
