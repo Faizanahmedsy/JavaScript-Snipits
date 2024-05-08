@@ -15,3 +15,4 @@ const faizan = new Student(
 );
 
 console.log(faizan.techStack);
+console.log(faizan.college);
